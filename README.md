@@ -22,7 +22,7 @@ Then update:
     - Add details appropriate to your new repo (e.g. replace this getting started section!)
     - Update the license date to be the year your repo was created.
 
- - **[LICENCE](LICENCE)**
+ - **[LICENCE](LICENSE)**
     - Update the license date to be the year your repo was created
 
 ### Integrations
