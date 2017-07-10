@@ -4,7 +4,7 @@ Contributing guidelines
 ## Git Workflow
 
  - We use _github flow_
-    - ``master` is the default branch
+    - ``master`` is the default branch
     - Create feature branches from ``master`` prefixed with ``feature/``, e.g. ``feature/some-new-thing``
     - All proposed merges to ``master`` must be done via pull request. 
  - Pull requests must contain a succinct, clear sumary of what the request entails and why it is necessary to occur.
